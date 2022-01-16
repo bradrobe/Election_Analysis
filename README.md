@@ -53,9 +53,11 @@ Using a bulleted list, address the following election outcomes. Use images or ex
 ## Election-Audit Summary:
 Our analysis tools can breakdown information provided from the states or counties included in the election process.  We will turn the information into data showing the total votes cast, which will indicate the participation of the population in that state or county.  It will also accurately indicate the number of votes received by each candidate.  
 
+![image](https://github.com/bradrobe/Election_Analysis/blob/main/Election%20Counties%20-%20Code%20to%20for%20County.png)
+
 Using the “for loop” function allows a script to put together states or counties that are part of the election audit.  The image 1 below will show the script that will be used to put together the data.
 
-![image](https://github.com/bradrobe/Election_Analysis/blob/main/Election%20Counties%20-%20Code%20to%20for%20County.png)
+![image](https://github.com/bradrobe/Election_Analysis/blob/main/Election%20County%20-%20Comparative%20Code.png)
 
 Using the “membership operator” and comparison operators” will calculate the data providing total vote count to each specific state or county.  Below image 2 will show the script used to analyze the data for each state or county.
 
