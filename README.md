@@ -48,6 +48,8 @@ Using a bulleted list, address the following election outcomes. Use images or ex
 
 -   Candidate Diana DeGette won the election with a vote count of 272,892 and which was 73.8% of the total votes.
 
+![image](https://github.com/bradrobe/Election_Analysis/blob/main/Election%20Results.png)
+
 
 ## Election-Audit Summary:
 Our analysis tools can breakdown information provided from the states or counties included in the election process.  We will turn the information into data showing the total votes cast, which will indicate the participation of the population in that state or county.  It will also accurately indicate the number of votes received by each candidate.  
